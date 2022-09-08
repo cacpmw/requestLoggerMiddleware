@@ -9,6 +9,7 @@
     "requestloggermiddleware",
     "request-logger-middleware"
   ],
+  "types": "",
   "bugs": "https://github.com/cacpmw/requestLoggerMiddleware/issues",
   "repository": {
     "url": "https://github.com/cacpmw/requestLoggerMiddleware",
@@ -19,6 +20,7 @@
   "license": "MIT",
   "author": "Carlos Albuquerque Carneiro <carloscarneiropmw@gmail.com>",
   "dependencies": {
-    "debug": "^4.3.4"
+    "debug": "^4.3.4",
+    "typescript": "^4.8.2"
   }
 }
