@@ -29,7 +29,7 @@ const app = express();
 app.use(requestLoggerMiddleware());
 
 ```
-Package.json:
+On your package.json file simply add `DEBUG=http` to your start up script
 
 ```json
 "scripts": {
