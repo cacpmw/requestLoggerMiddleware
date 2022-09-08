@@ -1,0 +1,24 @@
+{
+  "name": "request-logger-middleware",
+  "description": "This adds a request logger middleware to Nodejs server",
+  "keywords": [
+    "request",
+    "logger",
+    "middleware",
+    "request logger middleware",
+    "requestloggermiddleware",
+    "request-logger-middleware"
+  ],
+  "bugs": "https://github.com/cacpmw/requestLoggerMiddleware/issues",
+  "repository": {
+    "url": "https://github.com/cacpmw/requestLoggerMiddleware",
+    "type": "git"
+  },
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "author": "Carlos Albuquerque Carneiro <carloscarneiropmw@gmail.com>",
+  "dependencies": {
+    "debug": "^4.3.4"
+  }
+}
