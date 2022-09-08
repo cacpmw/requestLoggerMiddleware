@@ -9,7 +9,7 @@
     "requestloggermiddleware",
     "request-logger-middleware"
   ],
-  "types": "",
+  "types": "index.d.ts",
   "bugs": "https://github.com/cacpmw/requestLoggerMiddleware/issues",
   "repository": {
     "url": "https://github.com/cacpmw/requestLoggerMiddleware",
