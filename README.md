@@ -11,6 +11,7 @@ Straight forward simple middleware for express server. Logs on terminal every re
   http Query {"query":"somevalue"}
   http Params {}
   http Protocol http +9m
+  http Response Error {"error":"account already exists"} +31m
 ```
 
 # Installation
