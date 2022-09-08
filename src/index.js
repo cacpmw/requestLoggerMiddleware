@@ -1,6 +1,6 @@
 const debug = require('debug')('http');
 
-function requestLoggerMiddleware(request, response, next) {
+function requestLoggerMiddleware(request, _response, next) {
     debug('===========================================\n' +
         request.method + ' ' + request.url
         + '\nIP ' + request.ip

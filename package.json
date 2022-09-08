@@ -1,6 +1,6 @@
 {
   "name": "request-logger-middleware",
-  "description": "This adds a request logger middleware to Nodejs server",
+  "description": "This adds a request logger middleware to express server",
   "keywords": [
     "request",
     "logger",
