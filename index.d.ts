@@ -3,3 +3,5 @@
  * Returns the middleware function
  */
 declare function requestLoggerMiddleware(): void;
+
+export = requestLoggerMiddleware;
